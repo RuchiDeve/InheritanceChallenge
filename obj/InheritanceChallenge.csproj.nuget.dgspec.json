@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\israel.iyonsi\\source\\repos\\RuchiDeve\\InheritanceChallenge\\InheritanceChallenge.csproj": {}
+    "C:\\Users\\israel.iyonsi\\source\\repos\\RuchiDeve\\InheritanceChallenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\israel.iyonsi\\source\\repos\\RuchiDeve\\InheritanceChallenge\\InheritanceChallenge.csproj": {
+    "C:\\Users\\israel.iyonsi\\source\\repos\\RuchiDeve\\InheritanceChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\israel.iyonsi\\source\\repos\\RuchiDeve\\InheritanceChallenge\\InheritanceChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\israel.iyonsi\\source\\repos\\RuchiDeve\\InheritanceChallenge.csproj",
         "projectName": "InheritanceChallenge",
-        "projectPath": "C:\\Users\\israel.iyonsi\\source\\repos\\RuchiDeve\\InheritanceChallenge\\InheritanceChallenge.csproj",
+        "projectPath": "C:\\Users\\israel.iyonsi\\source\\repos\\RuchiDeve\\InheritanceChallenge.csproj",
         "packagesPath": "C:\\Users\\israel.iyonsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\israel.iyonsi\\source\\repos\\RuchiDeve\\InheritanceChallenge\\obj\\",
+        "outputPath": "C:\\Users\\israel.iyonsi\\source\\repos\\RuchiDeve\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
