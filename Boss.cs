@@ -14,7 +14,6 @@ namespace InheritanceChallenge
         public Boss(String companyCar, String name, String firstName, int salary):base(name, firstName, salary)
         {
             this.CompanyCar = companyCar;
-          
         }
 
         public void Lead()
