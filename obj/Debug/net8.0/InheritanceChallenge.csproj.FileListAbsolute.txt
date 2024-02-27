@@ -1,0 +1,14 @@
+C:\Users\israel.iyonsi\source\repos\InheritanceChallenge\InheritanceChallenge\obj\Debug\net8.0\InheritanceChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\israel.iyonsi\source\repos\InheritanceChallenge\InheritanceChallenge\obj\Debug\net8.0\InheritanceChallenge.AssemblyInfoInputs.cache
+C:\Users\israel.iyonsi\source\repos\InheritanceChallenge\InheritanceChallenge\obj\Debug\net8.0\InheritanceChallenge.AssemblyInfo.cs
+C:\Users\israel.iyonsi\source\repos\InheritanceChallenge\InheritanceChallenge\obj\Debug\net8.0\InheritanceChallenge.csproj.CoreCompileInputs.cache
+C:\Users\israel.iyonsi\source\repos\InheritanceChallenge\InheritanceChallenge\bin\Debug\net8.0\InheritanceChallenge.exe
+C:\Users\israel.iyonsi\source\repos\InheritanceChallenge\InheritanceChallenge\bin\Debug\net8.0\InheritanceChallenge.deps.json
+C:\Users\israel.iyonsi\source\repos\InheritanceChallenge\InheritanceChallenge\bin\Debug\net8.0\InheritanceChallenge.runtimeconfig.json
+C:\Users\israel.iyonsi\source\repos\InheritanceChallenge\InheritanceChallenge\bin\Debug\net8.0\InheritanceChallenge.dll
+C:\Users\israel.iyonsi\source\repos\InheritanceChallenge\InheritanceChallenge\bin\Debug\net8.0\InheritanceChallenge.pdb
+C:\Users\israel.iyonsi\source\repos\InheritanceChallenge\InheritanceChallenge\obj\Debug\net8.0\InheritanceChallenge.dll
+C:\Users\israel.iyonsi\source\repos\InheritanceChallenge\InheritanceChallenge\obj\Debug\net8.0\refint\InheritanceChallenge.dll
+C:\Users\israel.iyonsi\source\repos\InheritanceChallenge\InheritanceChallenge\obj\Debug\net8.0\InheritanceChallenge.pdb
+C:\Users\israel.iyonsi\source\repos\InheritanceChallenge\InheritanceChallenge\obj\Debug\net8.0\InheritanceChallenge.genruntimeconfig.cache
+C:\Users\israel.iyonsi\source\repos\InheritanceChallenge\InheritanceChallenge\obj\Debug\net8.0\ref\InheritanceChallenge.dll
